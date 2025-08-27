@@ -1,6 +1,6 @@
 🛒 Projeto de Modelagem Lógica de Banco de Dados – E-commerce
 
-Este projeto apresenta a modelagem lógica e implementação de um banco de dados relacional para um sistema de e-commerce. A proposta foi desenvolvida com base em um cenário realista, incorporando especializações de cliente (Pessoa Física e Jurídica), múltiplas formas de pagamento, entregas com rastreio, vendedores e fornecedores, além de relacionamentos complexos entre produtos, pedidos e estoque.
+Este projeto apresenta a modelagem lógica e implementação de um banco de dados relacional para um sistema de e-commerce. O modelo foi desenvolvido como parte do desafio de projeto da DIO, com foco em boas práticas de modelagem e normalização. 
 
 🎯 Objetivos
 
