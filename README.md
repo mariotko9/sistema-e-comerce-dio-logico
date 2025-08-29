@@ -39,7 +39,7 @@ Cliente	1:1	Vendedor	Opcional
 Os scripts estão organizados por função:
 •	schema/ddl.sql: Criação das tabelas, constraints e índices
 •	schema/dml.sql: Inserção de dados de teste
-•	schema/triggers.sql: Gatilhos para regras de negócio (exclusividade PF/PJ, atualização de valor total do pedido)
+•	schema/trigger.sql: Gatilhos para regras de negócio (exclusividade PF/PJ, atualização de valor total do pedido)
 •	queries/consultas.sql: Consultas SQL complexas para análise de dados
 •	queries/perguntas.md: Perguntas de negócio respondidas pelas queries
 
