@@ -37,11 +37,11 @@ Cliente	1:1	Vendedor	Opcional
 ⚙️ Scripts
 
 Os scripts estão organizados por função:
-•	schema/ddl.sql: Criação das tabelas, constraints e índices
-•	schema/dml.sql: Inserção de dados de teste
-•	schema/trigger.sql: Gatilhos para regras de negócio (exclusividade PF/PJ, atualização de valor total do pedido)
-•	queries/consultas.sql: Consultas SQL complexas para análise de dados
-•	queries/perguntas.md: Perguntas de negócio respondidas pelas queries
+•	ddl.sql: Criação das tabelas, constraints e índices
+•	dml.sql: Inserção de dados de teste
+•	trigger.sql: Gatilhos para regras de negócio (exclusividade PF/PJ, atualização de valor total do pedido)
+•	consultas.sql: Consultas SQL complexas para análise de dados
+•	perguntas.md: Perguntas de negócio respondidas pelas queries
 
 🧪 Exemplos de Consultas SQL
 
